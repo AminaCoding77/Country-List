@@ -34,7 +34,7 @@ const Page = () => {
       <div className="flex flex-col w-400 mt-15 ml-30">
         <div className="flex gap-1 items-center">
           <div
-            className=" w-[45px] h-[45px] bg-center bg-no-repeat bg-cover"
+            className=" w-[45px] h-[45px] bg-center bg-no-repeat bg-cover hover:cursor-pointer"
             style={{
               backgroundImage: `url('arrow.svg')`,
             }}
